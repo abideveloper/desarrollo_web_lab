@@ -1,3 +1,3 @@
-# Aprendiendo Desarrllo Web
+# Aprendiendo Desarrollo Web
 
 Soy Abi, voy a aprender desarrollo web, estaré compartiendo todo mi procesos de aprendizaje.
